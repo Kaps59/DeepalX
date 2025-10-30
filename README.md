@@ -1,4 +1,4 @@
 # DeepalX
 Automation system
 
-Sentinal version
+Sentinal version - Western province v2
